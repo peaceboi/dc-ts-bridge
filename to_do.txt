@@ -1,0 +1,18 @@
+get go
+get disgolf framework 
+    https://github.com/FedorLap2006/disgolf 
+get ts3go library 
+    https://github.com/Unity-Technologies/go-ts3
+maybe use https://github.com/Splamy/TS3AudioBot ?
+
+1. basics of APIs
+    ts API
+    discord API
+2. basics of go
+3. create functions
+  look at voice-bridge and teamcord to get an understanding of the code
+    join and leave
+    listen for voice data
+    transmit voice data
+4. create discord application/bot in developer dashboard
+5. 
