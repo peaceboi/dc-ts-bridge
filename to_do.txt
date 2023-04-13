@@ -4,6 +4,8 @@ get disgolf framework
 get ts3go library 
     https://github.com/Unity-Technologies/go-ts3
 maybe use https://github.com/Splamy/TS3AudioBot ?
+maybe use https://github.com/jacksonrakena/ts-discord-bot-template ?
+maybe use https://github.com/botlabs-gg/yagpdb ?
 
 1. basics of APIs
     ts API
