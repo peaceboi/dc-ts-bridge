@@ -6,6 +6,8 @@ get ts3go library
 maybe use https://github.com/Splamy/TS3AudioBot ?
 maybe use https://github.com/jacksonrakena/ts-discord-bot-template ?
 maybe use https://github.com/botlabs-gg/yagpdb ?
+more elp https://0x2142.com/how-to-discordgo-bot/#collecting-api-keys-via-environment-variables
+dc docs https://discord.com/developers/docs/intro
 
 1. basics of APIs
     ts API
