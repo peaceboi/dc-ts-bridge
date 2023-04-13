@@ -17,4 +17,5 @@ maybe use https://github.com/botlabs-gg/yagpdb ?
     listen for voice data
     transmit voice data
 4. create discord application/bot in developer dashboard
-5. 
+
+used https://dev.to/aurelievache/learning-go-by-examples-part-4-create-a-bot-for-discord-in-go-43cf to write the basics of discord.go 

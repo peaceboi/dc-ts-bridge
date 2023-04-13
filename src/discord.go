@@ -6,6 +6,7 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
+  "strings"
 
 	"github.com/bwmarrin/discordgo"
 )
@@ -65,6 +66,12 @@ func main() {
     }
 
     if m.Content == "/hänger" {
-      
+      //list all commands of hänger - find out how to do that
+    }
+
+    //commands
+    switch {
+      case strings.Contains(m.Content, "/join"):
+        channel, err := client.JoinVoiceChannel
     }
 }
