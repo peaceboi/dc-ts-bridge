@@ -20,4 +20,8 @@ dc docs https://discord.com/developers/docs/intro
     transmit voice data
 4. create discord application/bot in developer dashboard
 
-used https://dev.to/aurelievache/learning-go-by-examples-part-4-create-a-bot-for-discord-in-go-43cf to write the basics of discord.go 
+used https://dev.to/aurelievache/learning-go-by-examples-part-4-create-a-bot-for-discord-in-go-43cf to write the basics of discord.go
+
+functionality:
+- queue system for songs
+- add advanced error handling if necessary?
